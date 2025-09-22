@@ -1,4 +1,4 @@
-import HeroImg from "@/assets/images/Essa.png";
+import HeroImg from "@/assets/images/me.webp";
 import OlovaLogo from "@/assets/images/olova.png";
 
 export default function About() {
